@@ -7,6 +7,7 @@ tags:
   - Day After Yesterday
   - update
   - Wisdomski
+  - Moose
 ---
 
 Yep, today is the day after yesterday. But, now what?
