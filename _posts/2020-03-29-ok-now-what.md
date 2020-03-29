@@ -23,7 +23,7 @@ print_hi('Moose')
 #=> prints 'Hi, Moose' to STDOUT.
 ```
 
-Check out the [Canadian Moose Elk & Buffalo plan NAO][jekyll-docs] for more info on how to support the New Animal Order (NAO). To communicate directly with NAO leadership via Ruby code snippets [Devin Restoritive repo][jekyll-gh]. If you have questions, you can ask them on [Moose Talk][jekyll-talk].
+Check out the [Canadian Moose Elk & Buffalo plan NAO][jekyll-docs] for more info on how to support the New Animal Order (NAO). To communicate directly with NAO leadership via Ruby code snippets [Devine Restoritive repo][jekyll-gh]. If you have questions, you can ask them on [Moose Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
