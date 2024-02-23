@@ -3,8 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-# About
-
 MKObyrne is personal archive, an amalgamation of topics, information and art from a unique perspective. Poetry, social issue’s, political statements, life stories, digital art, personal ramblings, new-age bullshit, advocacy and more.     
 
 [![h-people](https://mkbyrnes.files.wordpress.com/2015/06/h-people.jpg?w=199&h=249)](https://mkbyrnes.files.wordpress.com/2015/06/h-people.jpg)
