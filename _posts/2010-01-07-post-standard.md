@@ -1,5 +1,5 @@
 ---
-title: "Post: Standard"
+title: "Standard Children & Stuff"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
